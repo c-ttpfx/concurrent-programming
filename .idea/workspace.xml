@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c14d4221-e47a-41de-9510-f8c6eca7fb7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ttpfx/threadbase/create/ByFutureTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ttpfx/threadbase/create/ByRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ttpfx/threadbase/create/ByThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ttpfx/threadbase/method/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ttpfx/threadbase/method/SleepTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ttpfx/threadbase/method/StartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ttpfx/threadbase/method/YieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ttpfx/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/logback.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\apache-maven-3.8.6\repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2PzjQSln1rT2gb7dsziVTXEuHTq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/14722/Desktop/test/chatgpt-java-wx/mychatgpt_server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.YieldTest">
+    <configuration name="ByFutureTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ttpfx.threadbase.create.ByFutureTask" />
+      <module name="cp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ttpfx.threadbase.create.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ttpfx.threadbase.method.RunTest" />
+      <module name="cp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ttpfx.threadbase.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SleepTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ttpfx.threadbase.method.SleepTest" />
+      <module name="cp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ttpfx.threadbase.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ttpfx.threadbase.method.StartTest" />
+      <module name="cp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ttpfx.threadbase.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YieldTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ttpfx.threadbase.method.YieldTest" />
+      <module name="cp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ttpfx.threadbase.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.YieldTest" />
+        <item itemvalue="Application.SleepTest" />
+        <item itemvalue="Application.RunTest" />
+        <item itemvalue="Application.StartTest" />
+        <item itemvalue="Application.ByFutureTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c14d4221-e47a-41de-9510-f8c6eca7fb7a" name="Changes" comment="" />
+      <created>1684466788871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684466788871</updated>
+      <workItem from="1684466790568" duration="2256000" />
+      <workItem from="1684482673148" duration="163000" />
+      <workItem from="1684482873139" duration="1404000" />
+      <workItem from="1684484290658" duration="8072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="concurrent-programming" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://D:/代码/JAVA代码/concurrent-programming}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="concurrent-programming" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://D:/代码/JAVA代码/concurrent-programming}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://D:/代码/JAVA代码/concurrent-programming/src}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
